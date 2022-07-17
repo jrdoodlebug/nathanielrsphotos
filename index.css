@@ -213,7 +213,7 @@ img {
 
 .prev:hover,
 .next:hover {
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0);
 }
 
 
@@ -244,3 +244,14 @@ img {
 .demo:hover {
   opacity: 1;
 }
+
+
+
+
+
+/*
+
+.footer-basic {
+  padding:40px 0;
+}
+*/
